@@ -1,0 +1,12 @@
+body{
+    font-family: "Nunito Sans", sans-serif;
+
+}
+#banner{
+    background-image: url("./assets/banner/banner-bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
